@@ -8,8 +8,10 @@ This is example is to show different parts of the Git repository
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to provide examples 
 
 ## Deployment
+
+this is a simple we project, Deployment can be on any web server or local
 
 ## How to contribute
