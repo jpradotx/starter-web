@@ -16,6 +16,7 @@ this is a simple we project, Deployment can be on any web server or local
 
 ## How to contribute
 
+Please fork this repository and then issue Pull request for review
 
 ### Copyright
 
